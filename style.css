@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    color: red;
+    width: max-content;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    padding: 20px;
+}
